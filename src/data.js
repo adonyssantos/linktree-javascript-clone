@@ -1,7 +1,7 @@
 const data = {
   header: {
     image: {
-      path: './images/me.jpg',
+      url: 'https://raw.githubusercontent.com/adonyssantos/adonyssantos.github.io/main/assets/images/me.png',
       alt: 'Adonys Santos photo',
     },
     fullname: 'Adonys Santos',
